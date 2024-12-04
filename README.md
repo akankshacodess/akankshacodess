@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 
 <img src="https://api.badgr.io/public/assertions/vBS_7eouRy2uhzyIqr262A?identity__email=guptaakanksha2002%40gmail.com" alt="PostMan Badge"/>
 <img src="https://certificate.codingninjas.com/certificate/abc984200fc4cc83/BadgesRoninCertificate" alt="ChatGPT"/>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ---
 
 Thanks for visiting! ✨ Feel free to explore, and let’s make great things together!
